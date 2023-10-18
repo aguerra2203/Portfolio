@@ -1,7 +1,4 @@
-# Snake Game
-This is a clone of the basic moving snake game we all know and love.
-This game allows players to navigate their snake across the window and collect apples, which grow your snake until you crash
+# Games
+This is a collection of the games I have created during my time at the University of Denver 
 
-# How To Play
-To play this game open the java files in a development environment such as eclipse
-Then, use any arrow key to move your snake across the screen
+This includes a basic 2D platformer game and a clone of the classic snake game
