@@ -67,6 +67,7 @@ Games that I have conceptualized
 
 # Concept 1
 Outrace your rivals both dead and alive to return supplies to your base camp and ensure your survival
+
 Gameplay Loops: Use car modifications to slow down enemy cars → Enemies in lower ranks get overrun by zombies → The car left at the end of the time limit wins → Repeat
 
 Comparable Games: F-Zero, Days Gone
@@ -75,6 +76,7 @@ Comparable Games: F-Zero, Days Gone
 
 # Concept 2
 Jump through infinite possibilities to find your way home from an ever-shifting maze of realities
+
 Gameplay Loops: Jump to a new reality → Choose your next path based on the clues presented to you → Repeat until you are home
 
 Comparable Games: Hades, Ratchet & Clank: Rift Apart
@@ -83,6 +85,7 @@ Comparable Games: Hades, Ratchet & Clank: Rift Apart
 
 # Concept 3
 Evade capture as you stay ahead of other prisoners to take the last ship out of an intergalactic prison
+
 Gameplay Loops: Race through the corridors of a high-security prison → Evade guards to stay out of your cell → Make your way to the last ship in the hangar → Repeat
 
 Comparable Games: Subway Surfers, A Way Out
@@ -91,6 +94,7 @@ Comparable Games: Subway Surfers, A Way Out
 
 # Concept 4
 Choose your hero and beat down every enemy in sight to keep the city safe from danger in this side-scrolling action game
+
 Gameplay Loops: Defeat every enemy in the area → Move to the next part of the city → Repeat until you reach the final boss
 
 Comparable Games: Streets of Rage, X-Men Arcade
@@ -99,8 +103,11 @@ Comparable Games: Streets of Rage, X-Men Arcade
 
 # Concept 5
 As the last functioning program on a dying computer, you must escape to a flash drive while running from the cursor that keeps trying to run you
+
 Gameplay Loops:
+
 Start as a program on a hard drive → Move through the file system to get on a flash drive and escape → Repeat
+
 As you escape, the cursor will try to find you and run your program → If it catches you, your files will revert back to their starting place → Repeat
 
 Comparable Games: Visual Out, Resident Evil 3
