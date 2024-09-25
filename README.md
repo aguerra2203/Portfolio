@@ -111,8 +111,9 @@ Start as a program on a hard drive → Move through the file system to get on a 
 As you escape, the cursor will try to find you and run your program → If it catches you, your files will revert back to their starting place → Repeat
 
 Comparable Games: Visual Out, Resident Evil 3
-![Visual Out](https://github.com/user-attachments/assets/60736e5d-7161-4d9b-a54b-bb07a73160ca)
-![Nemesis](https://github.com/user-attachments/assets/1512d218-e9c1-479a-afab-122944eb0a59)
+![Nemesis](https://github.com/user-attachments/assets/27a75c84-ae99-4da4-909e-93499bd5c038)
+![Visual Out](https://github.com/user-attachments/assets/63f450a1-49a1-49e4-aa71-7632712f2b34)
+
 
 
 
