@@ -5,7 +5,26 @@ This includes a basic 2D platformer game, a 3D 'collectathon' game, a Tank shoot
 
 All work shown was done solely by me
 
-(2D and 3D Games made with Unity and coded in C# on Visual Studio, Tank and Point Breakers created with C++ and Blueprints in Unreal Engine 5, Snake Game made in Eclipse IDE with Java)
+(Worlds Between, 2D and 3D Games made with Unity and coded in C# on Visual Studio, Tank and Point Breakers created with C++ and Blueprints in Unreal Engine 5, Snake Game made in Eclipse IDE with Java)
+
+# Capstone Game: Worlds Between
+A top-down, dimension-hopping roguelike
+
+
+After getting lost in the multiverse, path your way through countless worlds to find your way home
+
+Combine items and abilities from all dimensions to create your perfect playstyle
+
+This capstone project is a top-down, 2D shooter in which you must traverse three different universes in order to find artifacts that can bring you home. Switch weapons in accordance with the enemy you are facing and find the gap in their defenses.
+
+
+Follow the link to download a build of the game: https://drive.google.com/file/d/1xrRni2-Lp1z23EF3FDhlXsG_sWsu3ynA/view?usp=sharing
+
+
+
+![WB1](https://github.com/user-attachments/assets/47694c3b-00d8-49d9-9a77-20de53139832)
+
+![WB2](https://github.com/user-attachments/assets/c9bc7f76-3e76-4aaf-a8cc-63d71f4b8bf1)
 
 # 2D Game
 Main mechanics of the game:
@@ -73,15 +92,6 @@ Gameplay Loops: Use car modifications to slow down enemy cars → Enemies in low
 Comparable Games: F-Zero, Days Gone
 ![F-Zero](https://github.com/user-attachments/assets/ef5453b9-9a54-45ef-a0e3-7077f49e92c6)
 ![Days Gone](https://github.com/user-attachments/assets/a2ffcd56-8058-4de9-85ed-067274bb3f62)
-
-# Concept 2
-Jump through infinite possibilities to find your way home from an ever-shifting maze of realities
-
-Gameplay Loops: Jump to a new reality → Choose your next path based on the clues presented to you → Repeat until you are home
-
-Comparable Games: Hades, Ratchet & Clank: Rift Apart
-![Hades](https://github.com/user-attachments/assets/d6fd4cea-48fc-4bee-89ae-d9feb028ff03)
-![R C](https://github.com/user-attachments/assets/a7a0738b-df77-4bec-be7f-f6db623a5ca8)
 
 # Concept 3
 Evade capture as you stay ahead of other prisoners to take the last ship out of an intergalactic prison
