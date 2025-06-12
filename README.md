@@ -28,7 +28,7 @@ Follow the link to download a build of the game: https://drive.google.com/file/d
 
 Gameplay Video: https://vimeo.com/1091295686?share=copy
 
-#UP@Scale
+# UP@Scale
 
 Accept a new position at the urban planning company, UP@Scale, and try not to lose your job to AI as you consider city proposals.
 
