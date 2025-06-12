@@ -13,18 +13,20 @@ A top-down, dimension-hopping roguelike
 
 After getting lost in the multiverse, path your way through countless worlds to find your way home
 
-Combine items and abilities from all dimensions to create your perfect playstyle
+Combine items from all dimensions to create your perfect playstyle
 
 This capstone project is a top-down, 2D shooter in which you must traverse three different universes in order to find artifacts that can bring you home. Switch weapons in accordance with the enemy you are facing and find the gap in their defenses.
 
 
-Follow the link to download a build of the game: https://drive.google.com/file/d/12tdF6Y85VrvvKqfDNgZGnHQn13t2G7Lw/view?usp=sharing
+Follow the link to download a build of the game: https://drive.google.com/file/d/1gEKLIhMaKWydLI36uL8uD06DzzryGU8a/view?usp=drive_link
 
+![WB v2 pic 1](https://github.com/user-attachments/assets/7405ab23-5ac3-4e34-85f0-5294cf919e15)
 
+![WB v2 pic 2](https://github.com/user-attachments/assets/d36cd74f-fced-42dc-a839-a0399a80d101)
 
-![WB1](https://github.com/user-attachments/assets/47694c3b-00d8-49d9-9a77-20de53139832)
+![WB v2 pic 3](https://github.com/user-attachments/assets/3db9b510-c2a0-4c1e-8f22-e4c481bd511e)
 
-![WB2](https://github.com/user-attachments/assets/c9bc7f76-3e76-4aaf-a8cc-63d71f4b8bf1)
+Gameplay Video: https://vimeo.com/1091295686?share=copy
 
 # 2D Game
 Main mechanics of the game:
